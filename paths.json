@@ -1,15 +1,14 @@
 {
   "mappings": [
-    "/content/we-healthcare/language-masters/en:/",
-    "/content/we-healthcare/language-masters/en/:/en/",
-    "/content/we-healthcare/configuration:/.helix/config.json",
-    "/content/we-healthcare/metadata:/metadata.json",
-    "/content/we-healthcare/redirects:/redirects.json",
-    "/content/we-healthcare/graphql:/graphql.json",
-    "/content/we-healthcare/placeholders:/placeholders.json"
+    "/content/pbakliwal/new-luma-aem-aep/language-masters/en:/",
+    "/content/pbakliwal/new-luma-aem-aep/language-masters/en/:/en/",
+    "/content/pbakliwal/new-luma-aem-aep/configuration:/.helix/config.json",
+    "/content/pbakliwal/new-luma-aem-aep/metadata:/metadata.json",
+    "/content/pbakliwal/new-luma-aem-aep/redirects:/redirects.json",
+    "/content/pbakliwal/new-luma-aem-aep/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/we-healthcare/",
-    "/content/dam/we-healthcare/"
+    "/content/pbakliwal/new-luma-aem-aep/",
+    "/content/dam/pbakliwal/new-luma-aem-aep/"
   ]
 }
